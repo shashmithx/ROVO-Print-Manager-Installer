@@ -1,5 +1,5 @@
 {
-    "version": "1.2.0",
-    "url": "https://github.com/shashmithx/ROVO-Print-Manager-Installer/releases/download/V1.2.0/ROVO.Print.Manager.Pro.Setup.1.2.0.exe",
-    "notes": "Added update notification system and stability improvements."
+  "version": "1.2.1",
+  "url": "https://github.com/shashmithx/ROVO-Print-Manager-Installer/releases/download/V1.2.1/ROVO.Print.Manager.Pro.Setup.1.2.1.exe",
+  "notes": "v1.2.1: Fixed price calculation for odd page counts in duplex mode. Enhanced Security. Improved UI sorting and searching."
 }
