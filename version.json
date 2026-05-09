@@ -1,5 +1,37 @@
 {
-  "version": "1.2.1",
+  "version": "1.3.0",
   "url": "https://github.com/shashmithx/ROVO-Print-Manager-Installer/releases/download/V1.2.1/ROVO.Print.Manager.Pro.Setup.1.2.1.exe",
-  "notes": "v1.2.1: Fixed price calculation for odd page counts in duplex mode. Enhanced Security. Improved UI sorting and searching."
+  "notes": "# What's New in ROVO Print Manager v1.3.0 🚀
+**Release Date:** May 9, 2026
+
+We are excited to announce version 1.3.0, packed with highly requested features for better contact management, smoother payments, and professional image layouts.
+
+## ✨ Highlights
+
+### 👤 Smarter Contact Names
+The left sidebar now automatically identifies your saved WhatsApp contacts! No more guessing by phone numbers.
+- **Example:** Instead of `0704668661`, you'll now see `0704668661 - Rovo Print Hub`.
+- We've also fixed phone number formatting to show the standard `0` at the beginning.
+
+### 💰 Professional Payment & Pricing
+- **Custom Prices:** When sending "Print Ready" messages, you can now set a custom total price via a beautiful new popup. 
+- **Hidden File Prices:** If you set a custom total, the app automatically hides individual file prices in the WhatsApp message for a cleaner look.
+- **Debt Tracking:** You can now view and settle a customer's "Outstanding Arrears" (ණය මුදල්) directly from the payment window.
+
+### 🖼️ Enhanced Image Studio (Tiling)
+We've completely rebuilt the Tiling algorithm. Your photos will now be distributed **perfectly and evenly** across the entire A4 page, removing the large empty space that used to appear at the bottom.
+
+### 🛡️ Safety & Reliability
+- **Safety Delete:** Pressing **Delete** or the Trash icon now only removes files from the list. To permanently delete from your **Hard Drive**, turn **Caps Lock ON** first.
+- **Scaling Limits:** We've limited the UI Zoom level to a safe range of **70% to 120%**. This prevents the app from becoming unreadable if someone accidentally sets it to 0%.
+- **Better Shortcuts:** Global shortcuts like `Ctrl+P` (Print) and `Ctrl+S` (Settings) now work perfectly even while you are typing in search boxes or inputs.
+
+## 🛠️ Other Improvements
+- **Fixed Preview Issues:** All PDF files, even those with long names or spaces, now show a perfect preview in the right sidebar.
+- **Storage Optimization:** The app now intelligently ignores WhatsApp Status/Stories, saving you gigabytes of unnecessary disk space.
+- **Stability Fix:** Resolved a common Windows error (EPERM) that previously blocked some files from being deleted.
+
+---
+**ROVO.LK** - *Automating your print shop for a faster tomorrow.*
+"
 }
